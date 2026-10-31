@@ -1,4 +1,4 @@
-# Finding the Complexity of Algorithm - K.Visagan 251501249
+# Finding the Complexity of Algorithm
 
 A dedicated repository for analyzing, documenting, and calculating the time and space complexity of various computational algorithms. This project serves as a comprehensive reference guide for understanding algorithmic efficiency, Big O notation, and performance optimization.
 
